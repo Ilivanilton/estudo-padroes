@@ -13,7 +13,7 @@ public abstract class Duck{
 	}
 	
 	public void swim() {
-		System.out.println("pata nadando...");
+		System.out.println("pato nadando...");
 	}
 	
 }
