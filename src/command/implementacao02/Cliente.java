@@ -1,4 +1,4 @@
-package Command.implementacao02;
+package command.implementacao02;
 
 public class Cliente {
 	

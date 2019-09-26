@@ -1,6 +1,6 @@
-package Command.implementacao01;
+package command.implementacao01;
 
-import Command.Command;
+import command.Command;
 
 public class ControleRemoto {
 

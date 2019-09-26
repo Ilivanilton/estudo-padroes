@@ -1,9 +1,9 @@
-package Command.implementacao01;
+package command.implementacao01;
 
-import Command.AbrirPortaoCommand;
-import Command.Command;
-import Command.FecharPortaoCommand;
-import Command.PortaoAutomatico;
+import command.AbrirPortaoCommand;
+import command.Command;
+import command.FecharPortaoCommand;
+import command.PortaoAutomatico;
 
 public class Main {
 	

@@ -1,12 +1,12 @@
-package Command.implementacao02;
+package command.implementacao02;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import Command.AbrirPortaoCommand;
-import Command.Command;
-import Command.FecharPortaoCommand;
-import Command.PortaoAutomatico;
+import command.AbrirPortaoCommand;
+import command.Command;
+import command.FecharPortaoCommand;
+import command.PortaoAutomatico;
 
 public class Invoker {
 	

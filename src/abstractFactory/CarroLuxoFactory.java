@@ -1,17 +1,17 @@
-package AbstractFactory;
+package abstractFactory;
 
-public class CarroPopularFactory implements CarroFactory {
+public class CarroLuxoFactory implements CarroFactory {
 
 	@Override
 	public Roda montarRoda() {
 		// TODO Auto-generated method stub
-		return new RodaSimples();
+		return new RodaLigaLeve();
 	}
 
 	@Override
 	public Som montarSom() {
 		// TODO Auto-generated method stub
-		return new SomTocaFitas();
+		return new SomCDPlay();
 	}
 
 }

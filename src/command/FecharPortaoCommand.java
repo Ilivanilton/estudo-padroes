@@ -1,4 +1,4 @@
-package Command;
+package command;
 
 public class FecharPortaoCommand implements Command {
 
