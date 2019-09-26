@@ -1,6 +1,11 @@
-package Command;
+package Command.implementacao01;
 
-public class MainTeste {
+import Command.AbrirPortaoCommand;
+import Command.Command;
+import Command.FecharPortaoCommand;
+import Command.PortaoAutomatico;
+
+public class Main {
 	
 	//client
 	public static void main(String[] args) {
