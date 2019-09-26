@@ -1,4 +1,4 @@
-package FactoryMethod;
+package factoryMethod;
 
 public abstract class Creator {
 

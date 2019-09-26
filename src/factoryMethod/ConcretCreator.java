@@ -1,4 +1,4 @@
-package FactoryMethod;
+package factoryMethod;
 
 public class ConcretCreator extends Creator {
 

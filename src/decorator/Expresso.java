@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public class Expresso extends Beverage {
 	public Expresso() {

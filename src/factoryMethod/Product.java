@@ -1,4 +1,4 @@
-package FactoryMethod;
+package factoryMethod;
 
 public interface Product {
 	
